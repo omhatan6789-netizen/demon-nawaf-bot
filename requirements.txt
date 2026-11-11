@@ -1,2 +1,2 @@
 python-telegram-bot==22.8
-akipy
+akipy==1.7.1
